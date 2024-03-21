@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Prashant Sinha
 
-Engineer, architect, distributed system aficionado, tea addict ![India](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png "India")
+Engineer, architect, distributed system aficionado, tea addict 🇮🇳
 
 
 Currently freelancing as a Senior Engineer.
