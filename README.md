@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Prashant Sinha
 
-Engineer, architect, distributed system aficionado, tea addict 🇮🇳
+Engineer, architect, distributed system and tea aficionado 🇮🇳
 
 
 Currently freelancing as a Senior Engineer and on a lookout for the next challenge.
