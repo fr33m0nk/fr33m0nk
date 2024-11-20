@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Engineer, architect, distributed system and tea aficionado 🇮🇳
 
 
-Currently freelancing as a Senior Engineer and on a lookout for the next challenge.
+Currently working as a Senior Engineer and on a lookout for the next challenge.
 
 Previously worked at high paced startups like [Gojek](https://blog.gojek.io/), [Commsor](https://www.commsor.com/blog) and MBB ([the Boston Consulting Group](https://en.wikipedia.org/wiki/Boston_Consulting_Group) and [Bain & Company](https://en.wikipedia.org/wiki/Bain_%26_Company))
 
